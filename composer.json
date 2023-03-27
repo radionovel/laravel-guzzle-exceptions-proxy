@@ -1,0 +1,20 @@
+{
+  "name": "radionovel/laravel-guzzle-exceptions-proxy",
+  "type": "library",
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "RlExceptionsProxy\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "RlExceptionsProxy\\Tests\\": "tests/"
+    }
+  },
+  "require": {
+    "illuminate/support": "^9",
+    "illuminate/http": "^9",
+    "guzzlehttp/guzzle": "^7.0"
+  }
+}
