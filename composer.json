@@ -4,12 +4,12 @@
   "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
-      "RlExceptionsProxy\\": "src/"
+      "GuzzleExceptionsProxy\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "RlExceptionsProxy\\Tests\\": "tests/"
+      "GuzzleExceptionsProxy\\Tests\\": "tests/"
     }
   },
   "require": {

@@ -2,7 +2,7 @@
 declare(strict_types=1);
 
 
-namespace RlExceptionsProxy;
+namespace GuzzleExceptionsProxy;
 
 use GuzzleHttp\Exception\ClientException;
 use Illuminate\Contracts\Debug\ExceptionHandler;
