@@ -1,7 +1,7 @@
 {
-  "name": "radionovel/laravel-guzzle-exceptions-proxy",
+  "name": "gilmon/exceptions-proxy",
   "type": "library",
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "autoload": {
     "psr-4": {
       "ExceptionsProxy\\": "src/"
